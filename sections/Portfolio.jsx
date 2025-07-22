@@ -27,7 +27,7 @@ const categoryDescriptions = {
 };
 
 function Portfolio() {
-  const [activeCategory, setActiveCategory] = useState("Website");
+  const [activeCategory, setActiveCategory] = useState("UI/UX");
   const [openModal, setOpenModal] = useState({ isOpen: false, selectedModal: null });
   const [selectedDesignFile, setSelectedDesignFile] = useState(null);
   const [hoveredIndex, setHoveredIndex] = useState(null);
