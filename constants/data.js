@@ -318,7 +318,7 @@ export const portfolioList = [
     img: "/image/image1.png",
     description: "Website Portofolio.",
     category: "Website",
-    github: "https://github.com/anggawhy1/myportofolio.git",
+    github: "https://github.com/anggawhy1/uiux.git",
     live: "https://www.anggawhy.my.id/",
   },
   {
